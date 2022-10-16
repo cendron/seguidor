@@ -1,1 +1,1 @@
-# seguidor
+# Seguidor de linha
